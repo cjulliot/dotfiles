@@ -61,4 +61,5 @@ highlight Colorcolumn ctermbg=darkgray
 " source /etc/vim/vimrc.local
 " endif
 
+" pathogen runs plugins stored in ~/.vim/bundle
 execute pathogen#infect()
